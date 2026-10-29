@@ -355,4 +355,3 @@ console.log(response.message.content);
 - [Gentoo](https://github.com/gentoo/gentoo/tree/master/sci-ml/ollama)
 - [Flox](https://flox.dev/blog/ollama-part-one)
 - [Guix channel](https://codeberg.org/tusharhero/ollama-guix)
-我练习Fork Ollama仓库！
